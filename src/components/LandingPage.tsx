@@ -30,7 +30,7 @@ const LandingPage = ({ onUnlock }: LandingPageProps) => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ delay: 0.4 }}
       >
-        Hanya untuk sidik jari kesayanganku
+        Hanya untuk sidik jari Qi
       </motion.p>
 
       {/* Fingerprint Card */}
