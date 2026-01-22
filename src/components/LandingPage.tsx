@@ -48,7 +48,7 @@ const LandingPage = ({ onUnlock }: LandingPageProps) => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.8 }}
         >
-          Letakkan jarimu di sini...
+          Letakkan jarimu di sini yaa...
         </motion.p>
 
         {/* Unlock Button */}
